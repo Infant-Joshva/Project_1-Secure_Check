@@ -64,8 +64,10 @@ This is a mini project built using Python, Streamlit, and PostgreSQL to analyze 
 ---
 
 ## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/6a8a7f4c-9f57-42e0-94c6-bbb89eb63936)
-![image](https://github.com/user-attachments/assets/2ff798d5-fa6c-4b2e-9eb2-567a0d204e8e)
+
+![image](https://github.com/user-attachments/assets/b4004bae-5f09-4986-bdae-2ee842efcb29)
+![image](https://github.com/user-attachments/assets/8c9f5aff-0368-444e-bada-c5ef300d3614)
+![image](https://github.com/user-attachments/assets/ed958f30-9a57-476b-b3bb-c2182ec69ab4)
 
 ---
 
