@@ -67,9 +67,7 @@ SecureCheck/
 ## 📷 Screenshots
 
 ![image](https://github.com/user-attachments/assets/b4004bae-5f09-4986-bdae-2ee842efcb29)
---
 ![image](https://github.com/user-attachments/assets/8c9f5aff-0368-444e-bada-c5ef300d3614)
---
 ![image](https://github.com/user-attachments/assets/ed958f30-9a57-476b-b3bb-c2182ec69ab4)
 
 ---
