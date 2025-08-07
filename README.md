@@ -1,7 +1,8 @@
 
 # 🚓 SecureCheck: A Python-SQL Digital Ledger for Police Post
 
-This is a mini project built using Python, Streamlit, and PostgreSQL to analyze traffic stop data. It provides SQL-based insights and an interactive dashboard.
+SecureCheck is a Data Science mini project that analyzes traffic stop data using Python, PostgreSQL, and Streamlit. 
+It delivers SQL-powered insights through a clean and interactive dashboard. Ideal for those learning SQL integration with Python.
 
 ---
 
@@ -15,12 +16,22 @@ This is a mini project built using Python, Streamlit, and PostgreSQL to analyze 
 
 ---
 
-## 📂 Project Files
+## 📁 Project Structure
 
-- `Mini_project_1(Secure_Check).ipynb` - Data cleaning
-- `Mini_project_1(Secure_Check).py` - Streamlit app with SQL queries
-- `cleaned_traffic_stop.csv` - Cleaned dataset
-- `requirements.txt` - Python dependencies
+```
+SecureCheck/
+├── 📁 app/
+│   └── main_app.py                # Streamlit app with SQL queries
+├── 📁 data/
+│   └── cleaned_traffic_stop.csv   # Cleaned dataset
+├── 📁 notebooks/
+│   └── Mini_project_1(Secure_Check).ipynb   # Data cleaning in Colab
+├── 📁 video/
+│   └── project_demo.mp4           # Project demonstration video
+├── .gitignore
+├── requirements.txt               # Python dependencies
+└── README.txt                     # Project documentation
+```
 
 ---
 
@@ -29,35 +40,25 @@ This is a mini project built using Python, Streamlit, and PostgreSQL to analyze 
 1. Clone the repo  
    `git clone https://github.com/Infant-Joshva/SecureCheck.git`
 
-2. Install packages  
-   `pip install -r requirements.txt`
+2. Navigate to the app folder  
+   `cd SecureCheck/app`
 
-3. Update your PostgreSQL connection string in `app.py`
+3. Install required packages  
+   `pip install -r ../requirements.txt`
 
-4. Run the "Mini_project_1(Secure_Check)"
-   `streamlit run Mini_project_1(Secure_Check).py`
+4. Update your PostgreSQL connection string in `main_app.py`
+
+5. Run the Streamlit app  
+   `streamlit run main_app.py`
 
 ---
 
 ## 📊 Features
 
-- Clean and store data to PostgreSQL
-- 20+ pre-written SQL queries (basic to complex)
-- Interactive dashboard with dropdowns
-- Generate custom summary of traffic stops
-
----
-
----
-
-## 📚 Sample SQL Insights Included
-
-- Top 10 drug-related vehicles
-- Most searched violations
-- Arrest rate by age group
-- Night-time vs day-time stops
-- Year-wise arrest breakdown (Window Functions)
-- Driver demographics by country
+- Store and query traffic stop data using PostgreSQL
+- 20+ SQL queries (simple to advanced)
+- Interactive dashboard with dropdown filters
+- Clean UI built with Streamlit
 
 ---
 
@@ -68,6 +69,23 @@ This is a mini project built using Python, Streamlit, and PostgreSQL to analyze 
 ![image](https://github.com/user-attachments/assets/b4004bae-5f09-4986-bdae-2ee842efcb29)
 ![image](https://github.com/user-attachments/assets/8c9f5aff-0368-444e-bada-c5ef300d3614)
 ![image](https://github.com/user-attachments/assets/ed958f30-9a57-476b-b3bb-c2182ec69ab4)
+
+---
+
+## 🎥 Demo
+
+▶️ Watch the project in action: `video/project_demo.mp4`
+
+---
+
+## 📚 Sample SQL Insights
+
+- Top 10 drug-related vehicles
+- Most searched violations
+- Arrest rate by age group
+- Night-time vs day-time stops
+- Year-wise arrest breakdown (using window functions)
+- Driver demographics by country
 
 ---
 
@@ -82,4 +100,4 @@ This is a mini project built using Python, Streamlit, and PostgreSQL to analyze 
 
 ## ⭐ Give a Star!
 
-If you liked this project, please give it a ⭐ on GitHub!
+If you found this project helpful, please give it a ⭐ on GitHub!
