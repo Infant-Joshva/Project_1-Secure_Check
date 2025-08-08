@@ -1,3 +1,0 @@
-from local
-
-got the file from local
