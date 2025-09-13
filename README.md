@@ -19,7 +19,7 @@ It delivers SQL-powered insights through a clean and interactive dashboard. Idea
 ## 📁 Project Structure
 
 ```
-SecureCheck/
+Project_1-Secure_Check/
 ├── 📁 app/
 │   └── main_app.py                # Streamlit app with SQL queries
 ├── 📁 data/
@@ -41,7 +41,7 @@ SecureCheck/
    `git clone https://github.com/Infant-Joshva/Project_1-Secure_Check.git`
 
 2. Navigate to the app folder  
-   `cd SecureCheck/app`
+   `cd Project_1-Secure_Check/app`
 
 3. Install required packages  
    `pip install -r ../requirements.txt`
