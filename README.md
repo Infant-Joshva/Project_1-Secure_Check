@@ -92,7 +92,7 @@ Project_1-Secure_Check/
 ## 👤 Author
 
 **Infant Joshva**  
-📧 infantjoshva46@gmail.com  
+📧 infantjoshva2024@gmail.com  
 🐙 [GitHub](https://github.com/Infant-Joshva)  
 🔗 [LinkedIn](https://www.linkedin.com/in/infant-joshva)
 
