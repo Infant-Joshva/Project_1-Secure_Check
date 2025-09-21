@@ -8,18 +8,18 @@ It delivers SQL-powered insights through a clean and interactive dashboard. Idea
 
 ## 🔧 Tools Used
 
-- Python (pandas, sqlalchemy)
-- PostgreSQL (for storing cleaned data)
-- Streamlit (dashboard UI)
-- Google Colab (data cleaning in notebook)
-- VS Code (IDE)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20SQLAlchemy-gray?logo=python&logoColor=white&labelColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-gray?logo=postgresql&logoColor=white&labelColor=4169E1)
+![Google%20Colab](https://img.shields.io/badge/Google%20Colab-Data%20Cleaning%20In%20Notebook-gray?logo=google-colab&logoColor=white&labelColor=f9ab00)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard%20UI-gray?logo=streamlit&logoColor=white&labelColor=FF4B4B)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-IDE-gray?logo=visual-studio-code&logoColor=white&labelColor=0078d7)
 
 ---
 
 ## 📁 Project Structure
 
 ```
-SecureCheck/
+Project_1-Secure_Check/
 ├── 📁 app/
 │   └── main_app.py                # Streamlit app with SQL queries
 ├── 📁 data/
@@ -38,10 +38,10 @@ SecureCheck/
 ## 🚀 How to Run
 
 1. Clone the repo  
-   `git clone https://github.com/Infant-Joshva/SecureCheck.git`
+   `git clone https://github.com/Infant-Joshva/Project_1-Secure_Check.git`
 
 2. Navigate to the app folder  
-   `cd SecureCheck/app`
+   `cd Project_1-Secure_Check/app`
 
 3. Install required packages  
    `pip install -r ../requirements.txt`
@@ -92,7 +92,7 @@ SecureCheck/
 ## 👤 Author
 
 **Infant Joshva**  
-📧 infantjoshva46@gmail.com  
+📧 infantjoshva2024@gmail.com  
 🐙 [GitHub](https://github.com/Infant-Joshva)  
 🔗 [LinkedIn](https://www.linkedin.com/in/infant-joshva)
 
